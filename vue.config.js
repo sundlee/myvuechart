@@ -1,4 +1,4 @@
 module.exports = {
-  outputDir: './dist',
+  outputDir: './myvuechart',
   publicPath: '/myvuechart/'
 }
